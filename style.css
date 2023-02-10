@@ -1,0 +1,158 @@
+body {
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    margin: auto;
+    background-color: #fff;
+  }
+
+  nav {
+    display: flex;
+    height: 170px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+   }
+
+  #navFirst {
+    margin-left: 75px;
+ }
+
+  #navMid {
+    display: flex;
+    flex-direction: row;
+  }
+
+  #navEnd {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  #navMid > div {
+    list-style-type: none;
+    color: #000;
+    font-size: 28px;
+    font-family: sans-serif;
+    margin: 70px;
+    justify-content: center;
+  }
+
+  #navMid > div:nth-child(5n-4) {
+    text-decoration: underline;
+  }
+  
+  #navEnd > div {
+    list-style-type: none;
+    color: #000;
+    font-size: 10px;
+    font-family: sans-serif;
+    margin: 25px;
+    justify-content: baseline;
+  }
+
+  #monstera {
+    font-size: 140px;
+    font-family: Verdana;
+    margin-bottom: -20px;
+  }
+
+  #midWholePart1 {
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-top: 280px;
+  }
+
+#midWholePart11 {
+    margin-left: 40px;
+}
+
+#midWholePart121 {
+    margin-left: 80px;
+    color: #fff;
+    font-family: Arial;
+    background-color: rgb(77, 115, 77);
+    border: none;
+    border-radius: 70px;
+    padding: 1px 50px;
+    float: left;
+    margin-top: 45px ;
+    height: 140px;
+    border: none;
+    }
+
+#midWholePart122 {
+margin-left: 340px;
+margin-top: -87px;
+}
+
+#midWholePart13 {
+    font-size: 20px;
+    display: flex;
+    margin-top: 300px;
+    margin-left: 90px;
+    flex-direction: row;
+    justify-content: left;
+    align-items: flex-start;
+}
+
+#feeding {
+  height: 80px;
+}
+
+#feed-final {
+  margin-top: 15px;
+  line-height: 18px;
+  }
+
+#light {
+    height: 70px;
+    margin-left: 60px;
+}
+
+#light-final {
+  margin-top: 26px;
+  margin-left: 20px;
+  line-height: 18px;
+}
+
+#care {
+    height: 65px;
+    margin-left: 70px;
+}
+
+#care-final {
+  margin-top: 28px;
+  margin-left: 40px;
+  line-height: 18px;
+ }
+ 
+ .text {
+    font-size: 15px;
+    color: gray;
+    font: bold;
+    margin-left: 100px;
+    margin-top: -30px;
+}
+
+#imgMain {
+    float: right;
+    margin-top: -900px;
+    height: 1000px;
+}
+
+.midWholePart13Parts h4 {
+    font-family: sans-serif;
+    font: bolder;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: -90px;
+    text-align: left;
+}
+
+.action-btn {
+  font-size: 50px;
+}
+
+
+
+
